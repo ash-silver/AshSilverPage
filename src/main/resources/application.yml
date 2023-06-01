@@ -1,3 +1,8 @@
 
 server:
     port:7070
+
+thymeleaf:
+    enable: true
+    prefix: classpath:templates
+    suffix: .html
