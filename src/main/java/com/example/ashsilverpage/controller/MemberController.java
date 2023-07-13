@@ -11,6 +11,7 @@ public class MemberController {
 
     private final MemberService memberService;
 
+
     @GetMapping("/home")
     public String home(){
 
